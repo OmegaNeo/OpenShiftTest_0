@@ -1,0 +1,1 @@
+https://github.com/OmegaNeo/OpenShiftTest_0.git
